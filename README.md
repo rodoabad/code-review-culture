@@ -18,10 +18,12 @@ People seem to think that code reviews are meant to find bugs. While that is tru
 
 > If Content is King, then Context is God. - *Gary Vaynerchuk*
 
-This is probably one of the most important parts of a code review process. Having knowledge of the purpose of any code snippet is what makes a good team an awesome team. This also helps developers have a mindset of writing their code in a much more readable and easily shared piece of work.
+This is probably one of the most important parts of a code review process. Having knowledge of the purpose of any code snippet is what makes a good team an awesome team and this will lead to increased team awareness. This also helps developers have a mindset of writing their code in a much more readable and easily shared piece of work.
 
 #### Increased team awareness
 
+Increased team awareness helps eliminate repeating mistakes in the future since everyone has context of what is going on. If everyone has context of what is changing and why then it's not going to take a long time for alternative solutions to show up.
+
 #### Finding alternative solutions
 
-I cannot stress this enough, having another set of eyes to look at any given code is better than just one since no two developers are alike and each developer has probably developed their own way of thinking ho to solve problems.
+I cannot stress this enough, having another set of eyes to look at any given code is better than just one since no two developers are alike and each developer has probably developed their own way of thinking how to solve problems.
