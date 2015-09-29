@@ -52,8 +52,16 @@ As a reviewer you want your critical feedback to be well received and without ne
 
 This is a command. There's no discussion here. The author either has only two options - do it or ignore it. This also gives the author no credit for maybe having thought of extracting it to a service. Maybe they want to but they are just looking for more feedback.
 
+We ask a question.
+
+> ~~Why didn't you just extract this into a service...~~
+
+While this opens up a discussion between you and the author, this puts them in the defensive and as a reviewer you probably won't go far on your discussion with this type of tone.
+
 How do we make this better?
 
 > What do you think about extracting this into a service?
 
-Now you've opened up a technical discussion between you and the author. The author now feels that they are part of the decision making and their opinions matter.
+Now you've opened up a positive and healthy technical discussion between you and the author. The author now feels that they are part of the decision making and their opinions matter.
+
+**IMPORTANT NOTE:** As the reviewer, you have to be careful when you ask a question. Never pass judgement in the form of a question.
