@@ -32,8 +32,28 @@ I cannot stress this enough, having another set of eyes to look at any given cod
 
 #### As an author
 
-*An author should provide sufficient context so that the reviewer doesn't have to hunt down context.*
+*An author should provide sufficient context so that the reviewer doesn't have to hunt down it down.*
 
 It will probably add a couple more minutes of your time as an author but it will probably save more time for the reviewer. Always ask yourself if a reviewer looks at my commit message and pull request, will they have to look for context somewhere else? If the answer is yes then it's probably a good a idea to add more context to your commit.
 
 Moreover, commits full of context explaining what and why a change is happening gets to live in the git repository. It will always be there and it is a lot easier to track down in the future.
+
+#### As a reviewer
+
+*Provide compliments.*
+
+Compliments are free and should always be given out whenever we see something good and done particularly well.
+
+*Ask, don't tell.*
+
+As a reviewer you want your critical feedback to be well received and without negativity. One way to do that is to avoid making demands - [ask questions to drive discussions](https://en.wikipedia.org/wiki/Socratic_method).
+
+> Extract this out into a service.
+
+This is a command. There's no discussion here. The author either has only two options - do it or ignore it. This also gives the author no credit for maybe having thought of extracting it to a service. Maybe they want to but they are just looking for more feedback.
+
+How do we make this better?
+
+> What do you think about extracting this into a service?
+
+Now you've opened up a technical discussion between you and the author. The author now feels that they are part of the decision making and their opinions matter.
