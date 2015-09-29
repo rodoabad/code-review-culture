@@ -27,3 +27,13 @@ Increased team awareness helps eliminate repeating mistakes in the future since 
 #### Finding alternative solutions
 
 I cannot stress this enough, having another set of eyes to look at any given code is better than just one since no two developers are alike and each developer has probably developed their own way of thinking how to solve problems.
+
+### How to implement a strong code review culture
+
+#### As an author
+
+*An author should provide sufficient context so that the reviewer doesn't haveto hunt down context.*
+
+It will probably add a couple more minutes of your time as an author but it will probably save more time for the reviewer. Always ask yourself if a reviewer looks at my commit message and pull request, will they have to look for context somewhere else? If the answer is yes then it's probably a good a idea to add more context to your commit.
+
+Moreover, commits full of context explaining what and why a change is happening gets to live in the git repository. It will always be there and it is a lot easier to track down in the future.
