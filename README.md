@@ -2,6 +2,11 @@
 
 Culture is often overlooked by a team, not knowing that culture is what drives a team to build, produce, and maintain great products.
 
+## Table of Contents
+
+1. [Follow a styleguide](#follow-a-styleguide)
+2. [Code Reviews](#code-reviews)
+
 ## Code Reviews
 
 > The discipline of discussing your code to your peers. - *Derek Prior*
