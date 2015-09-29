@@ -16,7 +16,7 @@ People seem to think that code reviews are meant to find bugs. While that is tru
 
 #### Knowledge transfer
 
-> If Content is King, then Context is God. - *Gary Vaynerchuk*
+> If content is king, then context is God. - *Gary Vaynerchuk*
 
 This is probably one of the most important parts of a code review process. Having knowledge of the purpose of any code snippet is what makes a good team an awesome team and this will lead to increased team awareness. This also helps developers have a mindset of writing their code in a much more readable and easily shared piece of work.
 
