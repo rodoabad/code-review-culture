@@ -2,7 +2,7 @@
 
 > The discipline of discussing your code to your peers. - *Derek Prior*
 
-People seem to think that code reviews are meant to find bugs. While that is true to some extent it doesn't really meet the level of expectation set by developers and managers. It is better to look at code reviews as a way to transfer knowledge from one developer to another.
+Most people seem to think that code reviews are primarily meant to find bugs and while that is true to some extent it doesn't really meet the level of expectations when it comes to finding bugs. It is better to look at code reviews as a way to transfer knowledge from one developer to another.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ People seem to think that code reviews are meant to find bugs. While that is tru
 
 > If content is king, then context is God. - *Gary Vaynerchuk*
 
-This is probably one of the most important parts of a code review process. Having knowledge of the purpose of any code snippet is what makes a good team an awesome team and this will lead to increased team awareness. This also helps developers have a mindset of writing their code in a much more readable and easily shared piece of work.
+This is probably one of the most important parts of a code review process. Having knowledge of the purpose of any code snippet is what makes a good team an awesome team and this will lead to increased team awareness.
 
 ## Increased team awareness
 
