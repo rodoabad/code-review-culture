@@ -1,14 +1,18 @@
+# Table of Contents
+
+1. [The modern code review](#the-modern-code-review)
+  1. [Knowledge transfer](#knowledge-transfer)
+  2. [Increased team awareness](#increased-team-awareness)
+  3. [Finding alternative solutions](#finding-alternative-solutions)
+2. [Cultivating a strong code review culture](#cultivating-a-strong-code-review-culture)
+  1. [As an author](#as-an-author)
+  2. [As a reviewer](#as-a-reviewer)
+
 # The Modern Code Review
 
 > The discipline of discussing your code to your peers. - *Derek Prior*
 
 Most people seem to think that code reviews are primarily meant to find bugs and while that is true to some extent it doesn't really meet the level of expectations when it comes to finding bugs. It is better to look at code reviews as a way to transfer knowledge from one developer to another.
-
-## Table of Contents
-
-1. [Knowledge transfer](#knowledge-transfer)
-2. [Increased team awareness](#increased-team-awareness)
-3. [Finding alternative solutions](#finding-alternative-solutions)
 
 ## Knowledge transfer
 
@@ -24,9 +28,9 @@ Increased team awareness helps eliminate repeating mistakes in the future since 
 
 I cannot stress this enough, having another set of eyes to look at any given code is better than just one since no two developers are alike and each developer has probably developed their own way of thinking how to solve problems.
 
-### Cultivating a strong code review culture
+# Cultivating a strong code review culture
 
-#### As an author
+## As an author
 
 *An author should provide sufficient context so that the reviewer doesn't have to hunt down it down.*
 
@@ -34,7 +38,7 @@ It will probably add a couple more minutes of your time as an author but it will
 
 Moreover, commits full of context explaining what and why a change is happening gets to live in the git repository. It will always be there and it is a lot easier to track down in the future.
 
-#### As a reviewer
+## As a reviewer
 
 *Provide compliments.*
 
