@@ -65,3 +65,7 @@ How do we make this better?
 Now you've opened up a positive and healthy technical discussion between you and the author. The author now feels that they are part of the decision making and their opinions matter.
 
 Never pass judgement in the form of a question.
+
+## For both of you
+
+> Assume the other contributors have something to teach you.
