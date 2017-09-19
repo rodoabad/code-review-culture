@@ -7,6 +7,7 @@
 2. [Cultivating a strong code review culture](#cultivating-a-strong-code-review-culture)
   1. [As an author](#as-an-author)
   2. [As a reviewer](#as-a-reviewer)
+  3. [For both of you](#for-both-of-you)
 
 # The Modern Code Review
 
