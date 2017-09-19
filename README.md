@@ -33,7 +33,7 @@ I cannot stress this enough, having another set of eyes to look at any given cod
 
 ## As an author
 
-*An author should provide sufficient context so that the reviewer doesn't have to hunt down it down.*
+*An author should provide sufficient context so that the reviewer doesn't have to hunt it down.*
 
 It will probably add a couple more minutes of your time as an author but it will probably save more time for the reviewer. Always ask yourself if a reviewer looks at my commit message and pull request, will they have to look for context somewhere else? If the answer is yes then it's probably a good a idea to add more context to your commit.
 
