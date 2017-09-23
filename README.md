@@ -11,7 +11,7 @@
 
 # The Modern Code Review
 
-> The discipline of discussing your code to your peers. - *Derek Prior*
+> The discipline of discussing your code with your peers. - *Derek Prior*
 
 Most people seem to think that code reviews are primarily meant to find bugs and while that is true to some extent it doesn't really meet the level of expectations when it comes to finding bugs. It is better to look at code reviews as a way to transfer knowledge from one developer to another.
 
